@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Steve's Video Compressor
+Comment=Compress videos for Discord, YouTube, and more
+Exec=/home/steven/Claude/dez_first_test/video-compressor.sh
+Icon=/home/steven/Claude/dez_first_test/video-compressor-icon.svg
+Terminal=false
+Categories=AudioVideo;Video;
+Keywords=video;compress;convert;ffmpeg;discord;steve;
